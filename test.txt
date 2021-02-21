@@ -2,6 +2,7 @@ probando..
 Este es un mensaje de prueba
 rama de chat
 otro texto
+cambio
 esta linea es de lib especial
 lib especial
 fin
