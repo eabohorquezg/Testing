@@ -1,3 +1,4 @@
 Este es un mensaje de prueba
 rama de chat
+otro texto
 fin
