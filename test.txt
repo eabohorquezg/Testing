@@ -1,6 +1,8 @@
+probando..
 Este es un mensaje de prueba
 rama de chat
 otro texto
 esta linea es de lib especial
-lib espcial
+lib especial
 fin
+agrego mas lineas
